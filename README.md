@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Hassan</h1>
-<h3 align="center">Computer Engineering & Software systems Student At Ain shams |Junior Data Engineer</h3>
+<h3 align="center">Computer Engineering & Software systems Student At Ain shams | Junior Data Engineer</h3>
 
 - 🌱 I’m currently learning **Data Engineering | Ai |Flutter**
 
