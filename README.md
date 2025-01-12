@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mostafa Hassan</h1>
 <h3 align="center">Computer Engineering & Software systems Student At Ain shams | Junior Data Engineer</h3>
 
-- 🌱 I’m currently learning **Data Science  | Ai | Developer **
+- 🌱 I’m currently learning **Data Science  | Ai | ML **
 
 - 📫 How to reach me **mostafahassan3001@gmail.com**
 - 👨‍💻 All of my projects are available at [https://mstafahasan.github.io/](https://mstafahasan.github.io/)
